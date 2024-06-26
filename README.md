@@ -40,7 +40,7 @@ To compile and run the task manager:
 
 - List processes and display basic information.
 - Sort processes by name, PID, and memory usage.
-- Retrieve and display detailed process information based on the operating system.
+- Retrieve and display detailed process information based on the operating system (windows or linux).
 
 ## Example Output
 
@@ -66,6 +66,8 @@ Name : bProcess2          PID : 5678          MemoryUsage : 208 k
 Name : cProcess1          PID : 1234          MemoryUsage : 1024 k
 Name : aProcess3          PID : 11            MemoryUsage : 4096 k
 ```
+
+or write file name and will output your task manager in it.
 
 ## Contact
 
